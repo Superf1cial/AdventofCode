@@ -10,7 +10,7 @@ $input = $data.ToCharArray()
 
 foreach($char in $input)
 {
-write-host $char
+#write-host $char
 switch($char){
 
 "U"{
